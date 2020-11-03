@@ -23,4 +23,4 @@ Name, Proposition and Comment map to voter, refname and vote keys of the struct 
 
 Querying the saved struct values.
 
-<img src='https://github.com/rafat/framedev/blob/main/img/votestatus.jpg />
+<img src='https://github.com/rafat/framedev/blob/main/img/votestatus.jpg' />
